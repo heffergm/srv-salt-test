@@ -1,3 +1,3 @@
 vm.swappines:
   sysctl.present:
-    - value: 0
+    - value: 10
