@@ -1,3 +1,3 @@
 vm.swappines:
-  sysctl.present:
+  sysctl.absent:
     - value: 10
