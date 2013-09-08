@@ -5,3 +5,4 @@ base:
     - salt.sysctl
   'master*':
     - salt.master
+    - salt.highstate_cron
