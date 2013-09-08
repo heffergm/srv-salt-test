@@ -1,3 +1,3 @@
 vm.swappiness:
-  sysctl.absent:
+  sysctl.present:
     - value: 0
